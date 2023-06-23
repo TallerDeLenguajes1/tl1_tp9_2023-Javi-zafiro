@@ -1,0 +1,15 @@
+C:\Users\Javier\Documents\2023\Taller\Repositorios\tl1_tp9_2023-Javi-zafiro\bin\Debug\net7.0\tl1_tp9_2023-Javi-zafiro.exe
+C:\Users\Javier\Documents\2023\Taller\Repositorios\tl1_tp9_2023-Javi-zafiro\bin\Debug\net7.0\tl1_tp9_2023-Javi-zafiro.deps.json
+C:\Users\Javier\Documents\2023\Taller\Repositorios\tl1_tp9_2023-Javi-zafiro\bin\Debug\net7.0\tl1_tp9_2023-Javi-zafiro.runtimeconfig.json
+C:\Users\Javier\Documents\2023\Taller\Repositorios\tl1_tp9_2023-Javi-zafiro\bin\Debug\net7.0\tl1_tp9_2023-Javi-zafiro.dll
+C:\Users\Javier\Documents\2023\Taller\Repositorios\tl1_tp9_2023-Javi-zafiro\bin\Debug\net7.0\tl1_tp9_2023-Javi-zafiro.pdb
+C:\Users\Javier\Documents\2023\Taller\Repositorios\tl1_tp9_2023-Javi-zafiro\obj\Debug\net7.0\tl1_tp9_2023-Javi-zafiro.csproj.AssemblyReference.cache
+C:\Users\Javier\Documents\2023\Taller\Repositorios\tl1_tp9_2023-Javi-zafiro\obj\Debug\net7.0\tl1_tp9_2023-Javi-zafiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Javier\Documents\2023\Taller\Repositorios\tl1_tp9_2023-Javi-zafiro\obj\Debug\net7.0\tl1_tp9_2023-Javi-zafiro.AssemblyInfoInputs.cache
+C:\Users\Javier\Documents\2023\Taller\Repositorios\tl1_tp9_2023-Javi-zafiro\obj\Debug\net7.0\tl1_tp9_2023-Javi-zafiro.AssemblyInfo.cs
+C:\Users\Javier\Documents\2023\Taller\Repositorios\tl1_tp9_2023-Javi-zafiro\obj\Debug\net7.0\tl1_tp9_2023-Javi-zafiro.csproj.CoreCompileInputs.cache
+C:\Users\Javier\Documents\2023\Taller\Repositorios\tl1_tp9_2023-Javi-zafiro\obj\Debug\net7.0\tl1_tp9_2023-Javi-zafiro.dll
+C:\Users\Javier\Documents\2023\Taller\Repositorios\tl1_tp9_2023-Javi-zafiro\obj\Debug\net7.0\refint\tl1_tp9_2023-Javi-zafiro.dll
+C:\Users\Javier\Documents\2023\Taller\Repositorios\tl1_tp9_2023-Javi-zafiro\obj\Debug\net7.0\tl1_tp9_2023-Javi-zafiro.pdb
+C:\Users\Javier\Documents\2023\Taller\Repositorios\tl1_tp9_2023-Javi-zafiro\obj\Debug\net7.0\tl1_tp9_2023-Javi-zafiro.genruntimeconfig.cache
+C:\Users\Javier\Documents\2023\Taller\Repositorios\tl1_tp9_2023-Javi-zafiro\obj\Debug\net7.0\ref\tl1_tp9_2023-Javi-zafiro.dll
